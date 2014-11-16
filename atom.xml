@@ -2,11 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Kirioctopress]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  
-  <updated>2014-11-15T13:17:27+07:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://anggarapepe.github.io/atom.xml" rel="self"/>
+  <link href="http://anggarapepe.github.io/"/>
+  <updated>2014-11-17T06:43:07+07:00</updated>
+  <id>http://anggarapepe.github.io/</id>
   <author>
     <name><![CDATA[Kiri]]></name>
     
@@ -15,10 +14,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Mendaur Ulang]]></title>
+    <link href="http://anggarapepe.github.io/blog/2014/11/16/mendaur-ulang/"/>
+    <updated>2014-11-16T13:34:54+07:00</updated>
+    <id>http://anggarapepe.github.io/blog/2014/11/16/mendaur-ulang</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Midori]]></title>
-    <link href="http://yoursite.com/blog/2014/11/15/midori/"/>
+    <link href="http://anggarapepe.github.io/blog/2014/11/15/midori/"/>
     <updated>2014-11-15T13:14:46+07:00</updated>
-    <id>http://yoursite.com/blog/2014/11/15/midori</id>
+    <id>http://anggarapepe.github.io/blog/2014/11/15/midori</id>
     <content type="html"><![CDATA[<p>midori ao ki aka haku</p>
 ]]></content>
   </entry>
